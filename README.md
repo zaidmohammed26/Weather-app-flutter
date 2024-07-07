@@ -4,11 +4,11 @@ Weather application built with OpenWeatherMapAPI.
 
 ## How To Run
 
-0.Install Flutter in the Macine.
-1.Clone the Repository.
-2.Run the command 'flutter pub get' in the terminal.
-3.Connect a device to view the app.
-4.Run the command 'flutter run'.
+0.Install Flutter in the Macine.  
+1.Clone the Repository.  
+2.Run the command 'flutter pub get' in the terminal.  
+3.Connect a device to view the app.  
+4.Run the command 'flutter run'.  
 
 
 A few resources to get you started if this is your first Flutter project:
